@@ -1,0 +1,8 @@
+sudo npm install express-generator -g
+express login
+cd login
+npm i
+
+>> .gitignore 
+add /node_modules
+
